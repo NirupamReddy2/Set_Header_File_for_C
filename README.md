@@ -19,6 +19,6 @@ This repo contains a header file which can do all the above mentioned operations
 
 4. That's it, you can now use all the functions in the header file in your code.
 
-**For more information on the functions in the header file, go ahead and open the folder SET_HEADER_FILE_C present in this repo**
+**For more information on the functions in the header file, go ahead and open the 'Header_File' folder present in this repo**
 
 ## **HAPPY CODING :)**
